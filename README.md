@@ -49,3 +49,9 @@ AI-generated content may require human review.
   - Input: List of tasks
   - AI: Prioritizes by urgency/importance
   - Output: Structured daily/weekly plan
+ 
+  - ## Prototype
+
+The working prototype for this project is available here:  
+👉 [spark-work-wise](https://github.com/Masego2906/spark-work-wise)
+
